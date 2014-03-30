@@ -1,4 +1,4 @@
-festivus
-========
+festivus vagrant
+================
 
-A web app to help festival coordinators manage their band and venue workflows.
+The repository holding the vagrant setup for the festivus app. It assume that the application directory is a sibling.
